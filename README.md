@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi 👋, I'm Rohit Raghuwanshi
 
-# 💫 About Me:
+# ⭐ About Me:
 🏫 I am currently a 3rd year Undergrad at IET DAVV, INDORE.<br>👨‍💻 I am a full stack web developer and have worked on web<br>technologies like React, Express, Node, MongoDB, Tailwind etc.<br>📋 You can checkout my GitHub repositories for my projects.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_roheeet_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-raghuwanshi-487922223) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rohitrocky44) 
 
 # 💻 Tech Stack:
@@ -14,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-59&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-59&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohit-59&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Rohitrocky44)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
