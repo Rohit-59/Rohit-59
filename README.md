@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Rohit Raghuwanshi
 
 # ⭐ About Me:
-🏫 I am currently a 3rd year Undergrad at IET DAVV, INDORE.<br>👨‍💻 I am a full stack web developer and have worked on web<br>technologies like React, Express, Node, MongoDB, Tailwind etc.<br>📋 You can checkout my GitHub repositories for my projects.
+🏫 I am currently a CSE Senior at IET DAVV, INDORE.<br>👨‍💻 I am a full stack web developer and have worked on web<br>technologies like React, Express, Firebase, Cloudinary, NodeJs, MongoDB, Tailwind etc.<br>📋 You can checkout my GitHub repositories for my projects.
 
 
 ## 🌐 Connect with me:
